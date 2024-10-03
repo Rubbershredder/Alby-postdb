@@ -1,0 +1,23 @@
+# Ignore node_modules folder
+node_modules/
+
+# Ignore environment variables
+.env
+
+# Ignore log files
+*.log
+
+# Ignore package-lock.json if you don’t want to track it
+# Comment this out if you want to track package-lock.json
+# package-lock.json
+
+# Ignore build files if applicable
+build/
+dist/
+
+# Ignore IDE config files
+.vscode/
+.idea/
+
+# Ignore macOS system files
+.DS_Store
